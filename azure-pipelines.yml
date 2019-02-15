@@ -6,8 +6,6 @@
 trigger:
 - master
 
-pool: AgentDemo
-
 steps:
 - task: NodeTool@0
   inputs:
